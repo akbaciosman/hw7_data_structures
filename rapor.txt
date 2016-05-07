@@ -1,0 +1,30 @@
+Osman AKBACI-111044054
+
+Homework 7 - 4 / 27 / 2016
+
+
+Odevden istenilen
+
+part 1 - Costumer PriorityQueue tasarlamamiz
+
+Yapilan
+
+Part1
+-Öncelikle bir Queue ve birde Stack sinifi oluşturuldu 
+ bunlari prioritye Queueyi olustururken kullandim.
+-Dosyadan okuma yapilarak Costumer parametreleri PriorityQueue e atildi
+-Daha sonra siradan ilk Costumer aliinarak ArrivalTime süresince bulunan
+ diğer costumerler PriorityQueue alindi öncelik sırasina göre
+-Queue tek elemean kalana kadar Queue kuyruğundan elemanlar alınarak önceleik sırasını göre sıralandı 
+
+
+
+Part1,Part2,Part3 Main classında olusturularak test edilmesi saglandi
+
+1 - Bunlara ek olarak JUnit testler olusturulup dogrulukları ispat edildi,
+2 - Class Diagramlari eklendi
+3 - UseCase diagrami eklendi
+4 - Maven Projesi olarak olusturuldu
+5- logFile olusrturuldu
+6 - GitHub https://github.com/akbaciosman/hw7_data_structures
+
